@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incr_dec/static/css/main.66e91fd6.css",
+    "main.js": "/incr_dec/static/js/main.b234f9ec.js",
+    "index.html": "/incr_dec/index.html",
+    "main.66e91fd6.css.map": "/incr_dec/static/css/main.66e91fd6.css.map",
+    "main.b234f9ec.js.map": "/incr_dec/static/js/main.b234f9ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e91fd6.css",
+    "static/js/main.b234f9ec.js"
+  ]
+}
